@@ -1,0 +1,123 @@
+#div2
+{
+position:absolute;
+background:#40B3DF;
+left:5px;
+top:130px;
+width:255px;
+height:490px;
+border-radius:10px;
+box-shadow:10px 10px 5px #989898;
+background:radial-gradient(#99CCFF, #3D5266);
+}
+
+#div3
+{
+position:absolute;
+background:#40B3DF;
+left:955px;
+top:130px;
+width:385px;
+height:490px;
+border-radius:10px;
+box-shadow:-10px 10px 5px #989898;
+background:radial-gradient(#99CCFF, #3D5266);
+}
+
+#image_1
+{
+position:absolute;
+top:130px;
+left:275px;
+height:490px;
+width:665px;
+}
+
+#rest_1
+{
+position:absolute;
+left:300px;
+top:130px;
+background-image:url('rest_1.jpg');
+background-size:680px 600px;
+background-repeat:no-repeat;
+}
+
+#marquee
+{
+position:absolute;
+top:150px;
+left:980px;
+height:450px;
+font-family:Comic Sans MS;
+font-size:20px;
+color:white;
+text-align:center;
+}
+
+#table_booking
+{
+position:absolute;
+top:150px;
+left:500px;
+font-family:Comic Sans MS;
+font-size:22px;
+color:dodgerblue;
+
+}
+
+select
+{
+font-family:Comic Sans MS;
+font-size:16px;
+color:dodgerblue;
+border-radius:5px ; 
+}
+
+input
+{
+font-family:Comic Sans MS;
+font-size:13px;
+border-radius:5px ; 
+}
+
+div.transbox
+   {
+   position:absolute;
+   top:140px;
+   left:430px;
+   width:400px;
+   height:410px;
+   background-color:green;
+   border:5px solid dodgerblue;
+   opacity:0.5;
+   }
+   
+ #left_aerrow
+ {
+ position:absolute;
+ top:330px;
+ left:285px;
+ z-index:1;
+ }
+
+ #right_aerrow
+ {
+ position:absolute;
+ top:330px;
+ left:870px;
+ z-index:1;
+ }
+
+ #slider
+ {
+position:absolute;
+left:280px;
+top:130px;
+ }
+
+
+
+
+
+

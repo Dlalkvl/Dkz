@@ -1,0 +1,20 @@
+
+
+#hr_footer
+{
+position:absolute;
+left:150px;
+top:630px;
+width:850px;
+}
+
+footer
+{
+position:absolute;
+left:10px;
+top:640px;
+font-family:Comic Sans MS;
+font-size:20px;
+color:#40B3DF;
+font-weight:bold;
+}

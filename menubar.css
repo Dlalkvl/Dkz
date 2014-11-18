@@ -1,0 +1,41 @@
+ul
+{
+position:absolute;
+left:50px;
+top:200px;
+}
+
+ul > a
+{
+font-family:Comic Sans MS;
+font-size:20px;
+color:white;
+display:block;
+text-decoration: none;
+}
+
+header
+{
+position:absolute;
+display:block;
+background:#40B3DF;
+left:40px;
+top:135px;
+width:180px;
+height:50px;
+border-top-left-radius:18px;
+border-bottom-right-radius:18px;
+background:linear-gradient(#99CCFF, #3D5266);
+}
+
+header>center
+{
+position:absolute;
+color:white;
+top:-5px;
+left:32px;
+font-family:Monotype Corsiva;
+font-size:45px;
+font-style:italic;
+font-weight:bold;
+}

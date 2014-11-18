@@ -1,0 +1,61 @@
+
+div
+{
+position:absolute;
+background:#40B3DF;
+left:120px;
+top:5px;
+width:900px;
+height:95px;
+border-radius:25px;
+box-shadow:10px 10px 5px #989898;
+background:radial-gradient(#99CCFF, #3D5266);
+}
+
+div > h2
+{
+position:absolute;
+left:400px;
+top:0px;
+font-family:Comic Sans MS;
+font-size:34px;
+color:white;
+}
+
+div > h2 > tt
+{
+position:absolute;
+left:2px;
+top:40px;
+letter-spacing:4px;
+font-size:16px;
+padding:;
+color:yellow;
+}
+
+#form_login
+{
+color:#40B3DF;
+position:absolute;
+font-size:20px;
+font-family:Comic Sans MS;
+left:1050px;
+top:10px;
+}
+
+input
+{
+color:black;
+font-size:13px;
+font-family:Comic Sans MS;
+border-radius:5px ; border:1px solid #40B3DF;
+opacity:0.9;
+}
+
+hr
+{
+position:absolute;
+left:150px;
+top:110px;
+width:850px;
+}

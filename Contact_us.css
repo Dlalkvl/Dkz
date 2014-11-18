@@ -1,0 +1,24 @@
+
+abbr 
+{
+position:absolute;
+top:250px;
+left:350px;
+width:510px;
+font-family:Monotype Corsiva;
+font-weight:normal;
+font-size:30px;
+color:dodgerblue;
+text-align:justify;
+}
+
+strong
+{
+position:absolute;
+top:150px;
+left:390px;
+font-family:Monotype Corsiva;
+font-weight:bold;
+font-size:40px;
+color:dodgerblue;
+}
